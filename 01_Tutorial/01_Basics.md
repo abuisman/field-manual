@@ -136,6 +136,7 @@ class NewPiecePlease {
       write: [this.orbitdb.identity.id]
       }
     }
+    this.onready();
   }
 }
 ```
